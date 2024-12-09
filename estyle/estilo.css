@@ -1,0 +1,61 @@
+@charset "UTF-8";
+body {
+	background-color:rgb(148, 220, 242);
+}
+
+@import url("https://fonts.google.com/share?selection.family=Work+Sans:ital,wght@0,100..900;1,100..900;");
+
+h1 {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+  	color: #df6325;
+  	font-style: italic;
+	background-color: rgba(154, 242, 109, 0.063);
+	font-size: 70px;
+	
+}
+
+h2 {
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+  	color: #254adf;
+  	font-style: italic;
+	background-color: rgba(255, 228, 196, 0.063);
+	font-size: 40px;
+	margin-left: 20px;
+}
+
+p {
+	font-family:Arial, Helvetica, sans-serif;
+	text-align: left;
+  	color: #df6325;
+  	font-style: italic;
+	background-color: rgba(255, 228, 196, 0.063);
+	margin-left: 20px;
+	font-size: 30px;
+
+}
+
+.fotos {
+	width: 80%;
+	margin: 40px auto;
+}
+
+.foto-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.foto-container img {
+	width: 20%;
+	margin: 10px;
+	border: 1px solid #ccc;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.kings-regular {
+	font-family: "Kings", cursive;
+	font-weight: 400;
+	font-style: normal;
+  }
