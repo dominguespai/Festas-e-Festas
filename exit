@@ -1,0 +1,10 @@
+file:/home/domingues/.gitconfig	user.email=dominguespai@gmail.com
+file:/home/domingues/.gitconfig	user.mame=dominguespai
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=true
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	remote.origin.url=https://github.com/dominguespai/Festas-e-Festas.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.master.remote=origin
+file:.git/config	branch.master.merge=refs/heads/master
